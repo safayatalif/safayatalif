@@ -1,4 +1,4 @@
-![Junior Web developer](https://img.freepik.com/premium-vector/futuristic-flat-website-development-background_93732-11.jpg?w=1380)
+![Junior Web developer](https://www.gitpod.io/images/illustrattion-large-dark.webp)
 
 # Hi there 👋, Safayat Hossen Alif
 #### Junior Web developer
