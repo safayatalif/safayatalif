@@ -1,4 +1,4 @@
-![Junior Web developer](https://www.gitpod.io/images/illustrattion-large-dark.webp)
+![Junior Web developer](https://img.freepik.com/free-photo/programming-background-collage_23-2149901770.jpg?w=740&t=st=1700558209~exp=1700558809~hmac=b7d5998c3085f4c4ab1061db74e34b70f55fc1ec289ee6669d6b6620e9c0cc1d)
 
 # Hi there 👋, Safayat Hossen Alif
 #### Junior Web developer
