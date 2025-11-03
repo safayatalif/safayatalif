@@ -1,14 +1,98 @@
+# 👨‍💻 Safayat Hossen Alif
 
-# Hi there 👋, Safayat Hossen Alif
-#### Junior Web developer
+**Software Engineer**
 
+📍 Panchagarh, Rangpur, Bangladesh  
+📧 [safayatalif2021@gmail.com](mailto:safayatalif2021@gmail.com)  
+🌐 [Portfolio](https://safayat-hossen-alif-portfolio.netlify.app)  
+💼 [LinkedIn](https://www.linkedin.com/in/safayatalif2021)  
+💻 [GitHub](https://github.com/safayatalif)
 
+---
 
-Motivated junior web developer with a strong foundation in front-end technologies such as HTML, CSS, and JavaScript. Proficient in frameworks like React.js, I am experienced in building user-friendly web applications. Detail-oriented and committed to writing clean and maintainable code, I possess problem-solving and analytical skills to tackle challenges effectively. A constant learner, I stay updated with the latest industry trends to bring innovative ideas to projects. With excellent communication and teamwork abilities, I thrive in collaborative environments. Recently completed a relevant degree, I am excited to contribute to a dynamic development team and further grow as a web developer.
+## 🚀 About Me
 
-Skills: JavaScript / HTML / CSS / ReactJS / Tailwind CSS / Bootstrap / GitHub / MongoDB / REST API / Node.js / Express.js / Firebase VS Code
+I’m **Safayat Hossen Alif**, a passionate and detail-oriented **Software Engineer** with a strong foundation in **Computer Science and Engineering**.  
+I currently work at **Nextgen Innovation Ltd.**, where I develop and implement advanced **Hospital Information Systems (HIS/ERP)** and build scalable web applications using modern technologies like **Laravel, React, Next.js, Node.js, and Oracle**.
 
-- 🔭 I’m currently working on React  
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Web Development  
-- 💬 Ask me about Web Development 
+My goal is to become a **professional full-stack software engineer** capable of building efficient, user-friendly, and impactful digital solutions.
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Nextgen Innovation Ltd.
+**Software Engineer**  
+_March 2025 – Present_  
+- Developing and enhancing Hospital Information Management Systems (HIMS) using **Laravel** and **Oracle**.  
+- Collaborating on web projects built with **React**, **Next.js**, and **Node.js**.  
+
+**Software Implementation Engineer**  
+_February 2024 – March 2025_  
+- Implemented and managed **H360 ERP** across hospitals including Divine Mercy, Unico, East West, Allied, and CPH.  
+- Deployed, integrated, and trained users for modules such as OPD, IPD, Pharmacy, EMR, Billing, Inventory, SCM, and HRMS.  
+
+**Web Developer**  
+_August 2023 – February 2024_  
+- Built and deployed dynamic web applications using **React**, **Next.js**, and **Node.js**.  
+- Improved UI/UX performance and accessibility for optimal user engagement.  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science & Engineering (B.Sc. in CSE)**  
+📍 Southeast University, Dhaka  
+📅 2nd Year (Ongoing)  
+
+**Diploma in Computer Science & Engineering (CSE)**  
+📍 Shariatpur Polytechnic Institute  
+📆 2019 – 2023 | **CGPA: 3.75**  
+
+**Secondary School Certificate (Science)**  
+📍 Magura Pordhanpara BL High School, Panchagarh  
+📆 2019 | **GPA: 4.28/5.00**
+
+---
+
+## 🧠 Courses & Certifications
+
+- **CS Fundamentals With Phitron** – Programming Hero (2025-Present)  
+- **Complete Web Development Course** – Programming Hero (2023)  
+- **Web Development & Design** – Kaizen IT Ltd.  
+- **Skill Development for Mobile Game & Application** – ICT Division, Bangladesh  
+
+---
+
+## 🛠️ Technical Skills
+
+**Frontend:** HTML5 · CSS3 · JavaScript · Bootstrap · Tailwind CSS · React.js · Next.js  
+**Backend:** Node.js · Express.js · Laravel  
+**Database:** MySQL · MongoDB · Oracle  
+**Tools & Platforms:** Git · GitHub · GitLab · VS Code · Postman · PuTTY · Toad for Oracle · WinSCP · AnyDesk  
+
+---
+
+## 🧩 Projects & Areas of Work
+
+- 🏥 **Hospital Information Systems (HIS/ERP)** — H360 ERP, OPD/IPD, EMR, Billing, SCM, HRMS  
+- 🌐 **Web Applications** — Dynamic, responsive sites using React, Next.js, and Node.js  
+- 🖥️ **Software Implementation** — End-to-end deployment, training, and maintenance  
+
+---
+
+## 🌱 Currently Learning
+- Advanced PHP & Laravel  
+- Data Structures & Algorithms (Phitron Course)  
+- Cloud Deployment (AWS / Render / Vercel)
+
+---
+
+## 📫 Connect With Me
+🌐 [Portfolio](https://safayat-hossen-alif-portfolio.netlify.app)  
+💼 [LinkedIn](https://www.linkedin.com/in/safayatalif2021)  
+💻 [GitHub](https://github.com/safayatalif)  
+📧 [Email Me](mailto:safayatalif2021@gmail.com)
+---
+
+> _“Code with passion, deploy with confidence.”_ ✨
