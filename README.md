@@ -84,11 +84,4 @@ _August 2023 – February 2024_
 
 ---
 
-## 📫 Connect With Me
-🌐 [Portfolio](https://safayat-hossen-alif-portfolio.netlify.app)  
-💼 [LinkedIn](https://www.linkedin.com/in/safayatalif2021)  
-💻 [GitHub](https://github.com/safayatalif)  
-📧 [Email Me](mailto:safayatalif2021@gmail.com)
----
-
 > _“Code with passion, deploy with confidence.”_ ✨
