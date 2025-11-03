@@ -49,10 +49,6 @@ _August 2023 – February 2024_
 📍 Shariatpur Polytechnic Institute  
 📆 2019 – 2023 | **CGPA: 3.75**  
 
-**Secondary School Certificate (Science)**  
-📍 Magura Pordhanpara BL High School, Panchagarh  
-📆 2019 | **GPA: 4.28/5.00**
-
 ---
 
 ## 🧠 Courses & Certifications
