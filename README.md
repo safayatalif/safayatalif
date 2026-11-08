@@ -242,24 +242,26 @@ Explore **83+ repositories** spanning full-stack apps, ERP systems, real-time pl
 
 <div align="center">
 
-<img width="48%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=safayatalif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="48%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=safayatalif&theme=tokyonight&hide_border=true" />
+<img width="80%" alt="Profile summary: stars, commits, PRs, issues and contributions" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safayatalif&theme=tokyonight" />
 
-<img width="48%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safayatalif&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-<img width="48%" alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=safayatalif&theme=tokyonight" />
+<br/><br/>
+
+<img width="39%" alt="GitHub streak statistics" src="https://streak-stats.demolab.com?user=safayatalif&theme=tokyonight&hide_border=true" />
+&nbsp;&nbsp;
+<img width="39%" alt="Repository and contribution stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=safayatalif&theme=tokyonight" />
+
+<br/><br/>
+
+<img width="39%" alt="Most used languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=safayatalif&theme=tokyonight" />
+&nbsp;&nbsp;
+<img width="39%" alt="Most used languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=safayatalif&theme=tokyonight" />
 
 </div>
 
-### 📈 Contribution Activity
+### 📈 Coding Activity
 
 <div align="center">
-  <img width="98%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=safayatalif&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=A855F7&point=FFFFFF&area=true" />
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="98%" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=safayatalif&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
+  <img width="80%" alt="Most productive time of day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safayatalif&theme=tokyonight&utcOffset=6" />
 </div>
 
 <!-- ===================== SNAKE ANIMATION ===================== -->
